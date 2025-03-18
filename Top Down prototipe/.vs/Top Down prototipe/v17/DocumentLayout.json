@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|d:\\gamedev(unity)\\top-down-prototipe\\top down prototipe\\assets\\scripts\\world\\enterancearea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\world\\enterancearea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|d:\\gamedev(unity)\\top-down-prototipe\\top down prototipe\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,19 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EnteranceArea.cs",
+              "DocumentMoniker": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\World\\EnteranceArea.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\World\\EnteranceArea.cs",
+              "ToolTip": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\World\\EnteranceArea.cs",
+              "RelativeToolTip": "Assets\\Scripts\\World\\EnteranceArea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T13:31:04.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\Player\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
               "ToolTip": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\Player\\PlayerMovement.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAswAgAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA9wAgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T13:51:52.52Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Player.cs",
               "DocumentMoniker": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\Player\\Player.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player.cs",
