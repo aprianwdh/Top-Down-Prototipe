@@ -3,7 +3,23 @@
   "WorkspaceRootPath": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|d:\\gamedev(unity)\\top-down-prototipe\\top down prototipe\\assets\\scripts\\ui\\tabmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|d:\\gamedev(unity)\\top-down-prototipe\\top down prototipe\\assets\\scripts\\core\\savedatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\savedatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|d:\\gamedev(unity)\\top-down-prototipe\\top down prototipe\\assets\\scripts\\ui\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\assets\\scripts\\core\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\assets\\scripts\\ui\\tabmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\tabmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -13,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\assets\\scripts\\world\\enterancearea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\world\\enterancearea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\Player\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +38,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\UI\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MainMenu.cs",
+              "ToolTip": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\UI\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\MainMenu.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA3wCIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T03:56:30.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SaveDataController.cs",
+              "DocumentMoniker": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\Core\\SaveDataController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\SaveDataController.cs",
+              "ToolTip": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\Core\\SaveDataController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\SaveDataController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T22:47:02.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SaveData.cs",
+              "DocumentMoniker": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\Core\\SaveData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\SaveData.cs",
+              "ToolTip": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\Core\\SaveData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\SaveData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T22:45:49.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "TabMenuController.cs",
               "DocumentMoniker": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\UI\\TabMenuController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\TabMenuController.cs",
@@ -42,12 +89,11 @@
               "RelativeToolTip": "Assets\\Scripts\\UI\\TabMenuController.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAwAkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T22:04:56.734Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T22:04:56.734Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "MenuController.cs",
               "DocumentMoniker": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\UI\\MenuController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MenuController.cs",
@@ -59,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "EnteranceArea.cs",
               "DocumentMoniker": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\World\\EnteranceArea.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\World\\EnteranceArea.cs",
@@ -71,26 +117,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\Player\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
               "ToolTip": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\Player\\PlayerMovement.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA9wAgAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T13:51:52.52Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Player.cs",
-              "DocumentMoniker": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\Player\\Player.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player.cs",
-              "ToolTip": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\Player\\Player.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\Player.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T13:37:27.359Z"
+              "WhenOpened": "2025-03-12T13:51:52.52Z",
+              "EditorCaption": ""
             }
           ]
         }

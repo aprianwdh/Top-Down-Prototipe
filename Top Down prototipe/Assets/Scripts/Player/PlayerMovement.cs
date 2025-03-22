@@ -7,11 +7,15 @@ public class Player : MonoBehaviour
     private Rigidbody2D rb;
     private Animator anim;
     private Vector2 moveDirection;
+    private SaveDataController saveDataController;
 
+    [System.Obsolete]
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
+
+        
     }
 
     void FixedUpdate()

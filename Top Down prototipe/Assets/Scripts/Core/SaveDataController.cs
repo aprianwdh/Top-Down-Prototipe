@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 
 public class SaveDataController : MonoBehaviour
@@ -6,6 +7,15 @@ public class SaveDataController : MonoBehaviour
     void Start()
     {
         saveDataPath = Application.persistentDataPath + "/saveData.json";
+        if (System.IO.File.Exists(saveDataPath))
+        {
+            Debug.Log("Save data exists!");
+            LoadGame();
+        }
+        else
+        {
+            Debug.Log("Save data does not exist!");
+        }
     }
 
     public void SaveGame()
@@ -16,6 +26,8 @@ public class SaveDataController : MonoBehaviour
         System.IO.File.WriteAllText(saveDataPath, json);
     }
 
+
+
     public void LoadGame()
     {
         if (System.IO.File.Exists(saveDataPath))
@@ -25,6 +37,15 @@ public class SaveDataController : MonoBehaviour
             Debug.Log(saveData.playerPosition);
 
             FindAnyObjectByType<Player>().transform.position = saveData.playerPosition;//opsional entar diganti
+        }
+    }
+
+
+    public void DeleteSave()//untuk menghapus save data
+    {
+        if (System.IO.File.Exists(saveDataPath))
+        {
+            System.IO.File.Delete(saveDataPath);
         }
     }
 
