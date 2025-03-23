@@ -1,23 +1,22 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class EntranceArea : MonoBehaviour
+public class EntranceArea : MonoBehaviour,IInteractable
 {
     [SerializeField] private int sceneIndex; // Perbaiki salah ketik "sceenIndex"
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    public void Interact()
     {
-        if (collision.CompareTag("Player"))
+        // Periksa apakah scene index valid sebelum berpindah scene
+        if (sceneIndex >= 0 && sceneIndex < SceneManager.sceneCountInBuildSettings)
         {
-            // Periksa apakah scene index valid sebelum berpindah scene
-            if (sceneIndex >= 0 && sceneIndex < SceneManager.sceneCountInBuildSettings)
-            {
-                SceneManager.LoadSceneAsync(sceneIndex);
-            }
-            else
-            {
-                Debug.LogError("Scene index tidak valid! Periksa pengaturan build.");
-            }
+            SceneManager.LoadSceneAsync(sceneIndex);
+        }
+        else
+        {
+            Debug.LogError("Scene index tidak valid! Periksa pengaturan build.");
         }
     }
+
+    
 }
