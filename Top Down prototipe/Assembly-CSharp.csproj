@@ -67,6 +67,7 @@
     <Compile Include="Assets\Scripts\Player\PlayerInteract.cs" />
     <Compile Include="Assets\Scripts\IInteractable\IInteractable.cs" />
     <Compile Include="Assets\Scripts\Core\SaveData.cs" />
+    <Compile Include="Assets\Scripts\UI\TransisiSceen.cs" />
     <Compile Include="Assets\Scripts\Core\SaveDataController.cs" />
     <Compile Include="Assets\Scripts\UI\MenuController.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerMovement.cs" />

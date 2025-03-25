@@ -7,8 +7,12 @@
       "RelativeMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\world\\enterancearea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|d:\\gamedev(unity)\\top-down-prototipe\\top down prototipe\\assets\\scripts\\player\\playerinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\assets\\scripts\\player\\playerinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|d:\\gamedev(unity)\\top-down-prototipe\\top down prototipe\\assets\\scripts\\iinteractable\\iinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\iinteractable\\iinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\assets\\scripts\\ui\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,8 +46,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IInteractable.cs",
+              "DocumentMoniker": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\IInteractable\\IInteractable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IInteractable\\IInteractable.cs",
+              "ToolTip": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\IInteractable\\IInteractable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IInteractable\\IInteractable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:27:40.477Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -52,14 +69,14 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerInteract.cs",
               "ToolTip": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\Player\\PlayerInteract.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerInteract.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-23T14:08:08.887Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MainMenu.cs",
               "DocumentMoniker": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\UI\\MainMenu.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MainMenu.cs",
@@ -71,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SaveDataController.cs",
               "DocumentMoniker": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\Core\\SaveDataController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\SaveDataController.cs",
@@ -83,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "SaveData.cs",
               "DocumentMoniker": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\Core\\SaveData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\SaveData.cs",
@@ -95,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "TabMenuController.cs",
               "DocumentMoniker": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\UI\\TabMenuController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\TabMenuController.cs",
@@ -107,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "MenuController.cs",
               "DocumentMoniker": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\UI\\MenuController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MenuController.cs",
@@ -125,14 +142,14 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\World\\EnteranceArea.cs",
               "ToolTip": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\World\\EnteranceArea.cs",
               "RelativeToolTip": "Assets\\Scripts\\World\\EnteranceArea.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T13:31:04.731Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\Player\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
