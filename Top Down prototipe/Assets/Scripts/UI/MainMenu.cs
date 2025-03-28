@@ -25,7 +25,7 @@ public class MainMenu : MonoBehaviour
     public void NewGame()
     {
         saveDataController.DeleteSave();
-        SceneManager.LoadSceneAsync(2);
+        StartCoroutine(LoadScene(1));
     }
 
     public void ContinueGame()
@@ -33,7 +33,7 @@ public class MainMenu : MonoBehaviour
         if (File.Exists(saveDataPath)) // Cek apakah save data ada sebelum melanjutkan
         {
             StartCoroutine(LoadScene(2));
-            saveDataController.LoadGame();
+            //saveDataController.LoadGame();
         }
     }
 
@@ -44,6 +44,9 @@ public class MainMenu : MonoBehaviour
 
     IEnumerator LoadScene(int sceneIndex)
     {
+        TransisiSceen transisi = FindAnyObjectByType<TransisiSceen>();
+        transisi.FadeIn();
+        yield return new WaitForSeconds(1.5f);
         AsyncOperation operation = SceneManager.LoadSceneAsync(sceneIndex);
         while (!operation.isDone)
         {

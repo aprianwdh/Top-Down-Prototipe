@@ -24,6 +24,7 @@ public class SaveDataController : MonoBehaviour
         saveData.playerPosition = FindAnyObjectByType<Player>().transform.position;//menyimpan posisi player
         string json = JsonUtility.ToJson(saveData);
         System.IO.File.WriteAllText(saveDataPath, json);
+        Debug.Log("Game Saved!");
     }
 
 
