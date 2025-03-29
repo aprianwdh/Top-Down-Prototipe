@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\assets\\scripts\\ui\\transisisceen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\assets\\scripts\\ui\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\assets\\scripts\\world\\enterancearea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\world\\enterancearea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|d:\\gamedev(unity)\\top-down-prototipe\\top down prototipe\\assets\\scripts\\ui\\transisisceen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\transisisceen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|d:\\gamedev(unity)\\top-down-prototipe\\top down prototipe\\assets\\scripts\\iinteractable\\savepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\iinteractable\\savepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\assets\\scripts\\player\\playerinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\assets\\scripts\\core\\savedatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\savedatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\assets\\scripts\\core\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\assets\\scripts\\ui\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,32 +39,12 @@
       "RelativeMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\tabmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\assets\\scripts\\ui\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\assets\\scripts\\core\\savedatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\savedatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\assets\\scripts\\world\\enterancearea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\world\\enterancearea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|d:\\gamedev(unity)\\top-down-prototipe\\top down prototipe\\assets\\scripts\\player\\playerinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\assets\\scripts\\iinteractable\\iinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\iinteractable\\iinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\assets\\scripts\\core\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0933AD29-E193-C7CA-9DAC-4870B7ACC1DE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,11 +54,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "SavePoint.cs",
+              "DocumentMoniker": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\IInteractable\\SavePoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IInteractable\\SavePoint.cs",
+              "ToolTip": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\IInteractable\\SavePoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IInteractable\\SavePoint.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T13:07:46.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TransisiSceen.cs",
               "DocumentMoniker": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\UI\\TransisiSceen.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\TransisiSceen.cs",
@@ -67,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "IInteractable.cs",
               "DocumentMoniker": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\IInteractable\\IInteractable.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\IInteractable\\IInteractable.cs",
@@ -79,46 +96,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "PlayerInteract.cs",
               "DocumentMoniker": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\Player\\PlayerInteract.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerInteract.cs",
               "ToolTip": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\Player\\PlayerInteract.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerInteract.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-23T14:08:08.887Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "MainMenu.cs",
               "DocumentMoniker": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\UI\\MainMenu.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MainMenu.cs",
               "ToolTip": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\UI\\MainMenu.cs",
               "RelativeToolTip": "Assets\\Scripts\\UI\\MainMenu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAzwBsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T03:56:30.633Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "SaveDataController.cs",
               "DocumentMoniker": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\Core\\SaveDataController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\SaveDataController.cs",
               "ToolTip": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\Core\\SaveDataController.cs",
               "RelativeToolTip": "Assets\\Scripts\\Core\\SaveDataController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAkwB4AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T22:47:02.861Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "SaveData.cs",
               "DocumentMoniker": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\Core\\SaveData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\SaveData.cs",
@@ -126,11 +143,12 @@
               "RelativeToolTip": "Assets\\Scripts\\Core\\SaveData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T22:45:49.71Z"
+              "WhenOpened": "2025-03-20T22:45:49.71Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "TabMenuController.cs",
               "DocumentMoniker": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\UI\\TabMenuController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\TabMenuController.cs",
@@ -138,12 +156,11 @@
               "RelativeToolTip": "Assets\\Scripts\\UI\\TabMenuController.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAwAkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T22:04:56.734Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T22:04:56.734Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "MenuController.cs",
               "DocumentMoniker": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\UI\\MenuController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MenuController.cs",
@@ -151,25 +168,24 @@
               "RelativeToolTip": "Assets\\Scripts\\UI\\MenuController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T21:55:41.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T21:55:41.68Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "EnteranceArea.cs",
               "DocumentMoniker": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\World\\EnteranceArea.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\World\\EnteranceArea.cs",
               "ToolTip": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\World\\EnteranceArea.cs",
               "RelativeToolTip": "Assets\\Scripts\\World\\EnteranceArea.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBkAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T13:31:04.731Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "D:\\GameDev(unity)\\Top-Down-Prototipe\\Top Down prototipe\\Assets\\Scripts\\Player\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
@@ -177,8 +193,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T13:51:52.52Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T13:51:52.52Z"
             }
           ]
         }

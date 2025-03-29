@@ -32,8 +32,8 @@ public class MainMenu : MonoBehaviour
     {
         if (File.Exists(saveDataPath)) // Cek apakah save data ada sebelum melanjutkan
         {
+            //saveDataController.LoadGameFirst();
             StartCoroutine(LoadScene(2));
-            //saveDataController.LoadGame();
         }
     }
 
